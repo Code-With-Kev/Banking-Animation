@@ -7,18 +7,58 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D44440A28063EA10025FC16 /* PagerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D44440928063EA10025FC16 /* PagerView.swift */; };
+		0D44440C2807066D0025FC16 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D44440B2807066D0025FC16 /* CardView.swift */; };
+		0D58F92D2807DEE1007BC2F3 /* TransactionListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D58F92C2807DEE1007BC2F3 /* TransactionListView.swift */; };
+		0D691E6C280A5E7C008BA35C /* MakingLines.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D691E6B280A5E7C008BA35C /* MakingLines.swift */; };
+		0D691E6E280AA314008BA35C /* GeometryReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D691E6D280AA314008BA35C /* GeometryReader.swift */; };
+		0D6D4DD92809345F00A3BE80 /* CardInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6D4DD82809345F00A3BE80 /* CardInfoView.swift */; };
+		0D6D4DDB28093ADF00A3BE80 /* VM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6D4DDA28093ADF00A3BE80 /* VM.swift */; };
+		0D6D4DDD28094D8E00A3BE80 /* VM2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6D4DDC28094D8E00A3BE80 /* VM2.swift */; };
+		0D6D4DE1280A474700A3BE80 /* BindingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6D4DE0280A474700A3BE80 /* BindingPractice.swift */; };
+		0DBB91D1280718E8000AF2A1 /* MenuHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DBB91D0280718E8000AF2A1 /* MenuHeaderView.swift */; };
+		0DBB91D328071E90000AF2A1 /* CardManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DBB91D228071E90000AF2A1 /* CardManager.swift */; };
+		0DC20D1B280B964900FFF474 /* Animationz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC20D1A280B964900FFF474 /* Animationz.swift */; };
+		0DC20D1D280BB62200FFF474 /* AnimationTiminggg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC20D1C280BB62200FFF474 /* AnimationTiminggg.swift */; };
+		0DC20D1F280BDA1000FFF474 /* Transitionzzz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC20D1E280BDA1000FFF474 /* Transitionzzz.swift */; };
+		0DC20D21280C073D00FFF474 /* Navigationzzz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC20D20280C073D00FFF474 /* Navigationzzz.swift */; };
+		0DC20D23280D242B00FFF474 /* ExpenseGraphView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC20D22280D242B00FFF474 /* ExpenseGraphView.swift */; };
 		0DC405D42804EC9D009F2F48 /* BankingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC405D32804EC9D009F2F48 /* BankingApp.swift */; };
 		0DC405D62804EC9D009F2F48 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC405D52804EC9D009F2F48 /* ContentView.swift */; };
 		0DC405D82804EC9F009F2F48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DC405D72804EC9F009F2F48 /* Assets.xcassets */; };
 		0DC405DB2804EC9F009F2F48 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DC405DA2804EC9F009F2F48 /* Preview Assets.xcassets */; };
+		0DC405E22804ECFA009F2F48 /* ColorConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC405E12804ECFA009F2F48 /* ColorConstants.swift */; };
+		0DC405E42804EE83009F2F48 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC405E32804EE83009F2F48 /* Models.swift */; };
+		0DC405E62804F290009F2F48 /* Notes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC405E52804F290009F2F48 /* Notes.swift */; };
+		0DC405E82804F95B009F2F48 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DC405E72804F95B009F2F48 /* Data.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D44440928063EA10025FC16 /* PagerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PagerView.swift; sourceTree = "<group>"; };
+		0D44440B2807066D0025FC16 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		0D58F92C2807DEE1007BC2F3 /* TransactionListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionListView.swift; sourceTree = "<group>"; };
+		0D691E6B280A5E7C008BA35C /* MakingLines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakingLines.swift; sourceTree = "<group>"; };
+		0D691E6D280AA314008BA35C /* GeometryReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReader.swift; sourceTree = "<group>"; };
+		0D6D4DD82809345F00A3BE80 /* CardInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardInfoView.swift; sourceTree = "<group>"; };
+		0D6D4DDA28093ADF00A3BE80 /* VM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VM.swift; sourceTree = "<group>"; };
+		0D6D4DDC28094D8E00A3BE80 /* VM2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VM2.swift; sourceTree = "<group>"; };
+		0D6D4DE0280A474700A3BE80 /* BindingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingPractice.swift; sourceTree = "<group>"; };
+		0DBB91D0280718E8000AF2A1 /* MenuHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuHeaderView.swift; sourceTree = "<group>"; };
+		0DBB91D228071E90000AF2A1 /* CardManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardManager.swift; sourceTree = "<group>"; };
+		0DC20D1A280B964900FFF474 /* Animationz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animationz.swift; sourceTree = "<group>"; };
+		0DC20D1C280BB62200FFF474 /* AnimationTiminggg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTiminggg.swift; sourceTree = "<group>"; };
+		0DC20D1E280BDA1000FFF474 /* Transitionzzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitionzzz.swift; sourceTree = "<group>"; };
+		0DC20D20280C073D00FFF474 /* Navigationzzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigationzzz.swift; sourceTree = "<group>"; };
+		0DC20D22280D242B00FFF474 /* ExpenseGraphView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseGraphView.swift; sourceTree = "<group>"; };
 		0DC405D02804EC9D009F2F48 /* Banking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Banking.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DC405D32804EC9D009F2F48 /* BankingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BankingApp.swift; sourceTree = "<group>"; };
 		0DC405D52804EC9D009F2F48 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0DC405D72804EC9F009F2F48 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DC405DA2804EC9F009F2F48 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0DC405E12804ECFA009F2F48 /* ColorConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorConstants.swift; sourceTree = "<group>"; };
+		0DC405E32804EE83009F2F48 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		0DC405E52804F290009F2F48 /* Notes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notes.swift; sourceTree = "<group>"; };
+		0DC405E72804F95B009F2F48 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,9 +92,29 @@
 			isa = PBXGroup;
 			children = (
 				0DC405D32804EC9D009F2F48 /* BankingApp.swift */,
+				0D6D4DD82809345F00A3BE80 /* CardInfoView.swift */,
 				0DC405D52804EC9D009F2F48 /* ContentView.swift */,
+				0DBB91D228071E90000AF2A1 /* CardManager.swift */,
+				0DBB91D0280718E8000AF2A1 /* MenuHeaderView.swift */,
+				0DC20D22280D242B00FFF474 /* ExpenseGraphView.swift */,
+				0D44440B2807066D0025FC16 /* CardView.swift */,
+				0D58F92C2807DEE1007BC2F3 /* TransactionListView.swift */,
+				0D44440928063EA10025FC16 /* PagerView.swift */,
+				0DC405E32804EE83009F2F48 /* Models.swift */,
+				0DC405E72804F95B009F2F48 /* Data.swift */,
+				0DC405E12804ECFA009F2F48 /* ColorConstants.swift */,
 				0DC405D72804EC9F009F2F48 /* Assets.xcassets */,
 				0DC405D92804EC9F009F2F48 /* Preview Content */,
+				0DC405E52804F290009F2F48 /* Notes.swift */,
+				0D6D4DDA28093ADF00A3BE80 /* VM.swift */,
+				0D6D4DDC28094D8E00A3BE80 /* VM2.swift */,
+				0D6D4DE0280A474700A3BE80 /* BindingPractice.swift */,
+				0D691E6B280A5E7C008BA35C /* MakingLines.swift */,
+				0D691E6D280AA314008BA35C /* GeometryReader.swift */,
+				0DC20D1A280B964900FFF474 /* Animationz.swift */,
+				0DC20D1C280BB62200FFF474 /* AnimationTiminggg.swift */,
+				0DC20D1E280BDA1000FFF474 /* Transitionzzz.swift */,
+				0DC20D20280C073D00FFF474 /* Navigationzzz.swift */,
 			);
 			path = Banking;
 			sourceTree = "<group>";
@@ -137,8 +197,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D691E6E280AA314008BA35C /* GeometryReader.swift in Sources */,
+				0D44440A28063EA10025FC16 /* PagerView.swift in Sources */,
+				0DC405E22804ECFA009F2F48 /* ColorConstants.swift in Sources */,
+				0D6D4DDB28093ADF00A3BE80 /* VM.swift in Sources */,
+				0DC20D1D280BB62200FFF474 /* AnimationTiminggg.swift in Sources */,
+				0D6D4DD92809345F00A3BE80 /* CardInfoView.swift in Sources */,
+				0DC20D1B280B964900FFF474 /* Animationz.swift in Sources */,
+				0DC405E82804F95B009F2F48 /* Data.swift in Sources */,
+				0DBB91D328071E90000AF2A1 /* CardManager.swift in Sources */,
+				0D6D4DE1280A474700A3BE80 /* BindingPractice.swift in Sources */,
+				0DC20D23280D242B00FFF474 /* ExpenseGraphView.swift in Sources */,
+				0DC405E62804F290009F2F48 /* Notes.swift in Sources */,
 				0DC405D62804EC9D009F2F48 /* ContentView.swift in Sources */,
+				0DC20D21280C073D00FFF474 /* Navigationzzz.swift in Sources */,
 				0DC405D42804EC9D009F2F48 /* BankingApp.swift in Sources */,
+				0D44440C2807066D0025FC16 /* CardView.swift in Sources */,
+				0D58F92D2807DEE1007BC2F3 /* TransactionListView.swift in Sources */,
+				0D6D4DDD28094D8E00A3BE80 /* VM2.swift in Sources */,
+				0DC405E42804EE83009F2F48 /* Models.swift in Sources */,
+				0D691E6C280A5E7C008BA35C /* MakingLines.swift in Sources */,
+				0DBB91D1280718E8000AF2A1 /* MenuHeaderView.swift in Sources */,
+				0DC20D1F280BDA1000FFF474 /* Transitionzzz.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
